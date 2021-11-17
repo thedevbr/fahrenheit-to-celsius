@@ -1,7 +1,7 @@
 {
-  "name": "fahrenheit-for-celsius",
+  "name": "fahrenheit-to-celsius",
   "author":"Lucas Mateus",
-  "description":"Conversor de fahrenheit para celsius",
+  "description":"Fahrenheit to celsius temperature converter",
   "version": "0.0.1",
   "scripts": {
     "dev": "vite",

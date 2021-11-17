@@ -32,7 +32,7 @@ function App() {
           boxShadow: "0 0 .2rem .1rem rgba(0, 0, 0,.1)",
         }}
       >
-      <h1 style={{color:"#710"}}>Convert Fahrenheit for Celsius</h1>
+      <h1 style={{color:"#710"}}>Fahrenheit to Celsius convert</h1>
         <h1>Fahrenheit</h1>
         <input
           name="inputOne"
@@ -48,7 +48,7 @@ function App() {
             color: novovalor < 0 ? "red" : "green",
           }}
         />
-        <h2>for</h2>
+        <h2>to</h2>
         <h1 style={{ color: "black" }}>Celsius</h1>
         <h2
           style={{
